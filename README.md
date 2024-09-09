@@ -12,16 +12,6 @@
 Teaches the fundamental aspects of sound, its production, propagation, recording and reproduction by introducing the underlying laws and models of physics, physiology and psychology. A proper understanding of this material is essential for the development of profound artistic expression in the sound-related arts. The aim of the course is to provide a theoretical background in sound technology and relevant audio topics, which promotes independent problem-solving skills in the realization of creative ideas. This is useful in the areas of media art and moving image, including sound design, acoustic communication, and electronic music. Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects. During the course, assignments such as acoustic measurements, multitrack editing, binaural rendering, field recordings, electronic sound creation, etc. will be distributed. In addition, students may prepare and give oral presentations on audio technology or acoustics that will stimulate further discussion on the topic. By successfully completing the examination requirements, students can earn the certificate of achievement (Leistungsnachweis) in media art. No prior knowledge is required and students from all departments are welcome. Please send an email to lschwarz(at)hfg-karlsruhe.de by October 20, 2024. The lecture will be held in English. The number of places is limited and will be allocated on a first-come, first-served basis.
 
 
-**Key words**
-- Music technology
-- Signal processing
-- Studio technology
-- Use of DAWs
-- Sound mixing
-
-
-
-FUNDAMENTALS OF SOUND
 
 1. Physics of sound
 2. Harmonics and harmonic series
@@ -40,27 +30,13 @@ FUNDAMENTALS OF SOUND
 
 ## Learning objectives
 
-Ziel ist es, ein grundlegendes Verständnis für die physikalischen und psychophysiologischen Grundlagen des Phänomens Sound aufzubauen. 
+The aim is to develop a basic understanding of the physical and psychophysiological foundations of the phenomenon of sound. 
 
 
 
 ## Workload and time investment
 
-
-
-|  Course component (in-class)       | Time investment (hours)  |
-| -----------------                  | :-------------:          |
-|                                    |                          |
-|   In-class lecture time (theory)   |  10                      |
-|   practical part                   |  20                      |
-|                                    |                          |
-|   sub total:                       |  30                      |
-|                                    |                          |
-|  Course component (out-of-class)   |                          |
-|                                    |                          |
-|   Assignments                      |  15                      |
-|                                    |                          |
-|   Total time investment            |  45                      |
+Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects.
 
 
 ## Further reading and selective bibliography
