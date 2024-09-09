@@ -1,3 +1,10 @@
+Inhalte der Kapitel strukturieren<br>
+Bücher bestellen<br>
+Kopien der relevanten Buchseiten machen<bt>
+Ordner anlegen<br>
+
+
+
 # FUNDAMENTALS OF SOUND
 
 *This seminar introduces the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.*<br>
