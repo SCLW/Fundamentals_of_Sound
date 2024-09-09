@@ -12,19 +12,24 @@
 Teaches the fundamental aspects of sound, its production, propagation, recording and reproduction by introducing the underlying laws and models of physics, physiology and psychology. A proper understanding of this material is essential for the development of profound artistic expression in the sound-related arts. The aim of the course is to provide a theoretical background in sound technology and relevant audio topics, which promotes independent problem-solving skills in the realization of creative ideas. This is useful in the areas of media art and moving image, including sound design, acoustic communication, and electronic music. Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects. During the course, assignments such as acoustic measurements, multitrack editing, binaural rendering, field recordings, electronic sound creation, etc. will be distributed. In addition, students may prepare and give oral presentations on audio technology or acoustics that will stimulate further discussion on the topic. By successfully completing the examination requirements, students can earn the certificate of achievement (Leistungsnachweis) in media art. No prior knowledge is required and students from all departments are welcome. Please send an email to lschwarz(at)hfg-karlsruhe.de by October 20, 2024. The lecture will be held in English. The number of places is limited and will be allocated on a first-come, first-served basis.
 
 
+**16 weeks winter semester**<br>
 
 1. Physics of sound
-2. Harmonics and harmonic series
-3. Waveforms
-4. Fourier Transform
-5. Amplitude, frequency, wavelength, phase
-6. Properties of sound
-7. Soundfield properties
-8. Anatomy of the ear
-9. Psychoacoustics
-10. Digital Analog
-11. Digital Signal Processing
+2. Types of Waves
+3. Complex Waves
+4. Wave Analysis: Fourier Transform and window function
+5. Room acoustics and room Acoustics Measurement
+6. Sound Levels and the Decibel
+7. Reverberation
+8. digital audio
+9. Anatomy of the ear - Psychoacoustics
+    
 
+Audioübertragung<br>
+Properties of sound: Amplitude, frequency, wavelength, phase<br>
+Soundfield properties<br>
+Digital Signal Processing<br>
+Harmonics and harmonic series<br>
 
 
 
