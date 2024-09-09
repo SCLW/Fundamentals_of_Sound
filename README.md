@@ -14,15 +14,18 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 **16 weeks winter semester**<br>
 
-1. Physics of sound
-2. Types of Waves
-3. Complex Waves
-4. Wave Analysis: Fourier Transform and window function
-5. Room acoustics and room Acoustics Measurement
-6. Sound Levels and the Decibel
-7. Reverberation
-8. digital audio
-9. Anatomy of the ear - Psychoacoustics
+1. Vibration and sound
+2. Types of waves
+3. Complex waves
+4. Harmonics and overtone series
+5. Wave analysis: fourier transform and window function
+6. Sound levels and the decibel
+7. Room acoustics and measurements
+8. Reverberation
+9. Digital audio
+10. Anatomy of the ear
+11. Binaural hearing
+12. Psychoacoustics
     
 
 Audioübertragung<br>
