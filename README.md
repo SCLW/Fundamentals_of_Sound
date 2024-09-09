@@ -12,20 +12,19 @@
 Teaches the fundamental aspects of sound, its production, propagation, recording and reproduction by introducing the underlying laws and models of physics, physiology and psychology. A proper understanding of this material is essential for the development of profound artistic expression in the sound-related arts. The aim of the course is to provide a theoretical background in sound technology and relevant audio topics, which promotes independent problem-solving skills in the realization of creative ideas. This is useful in the areas of media art and moving image, including sound design, acoustic communication, and electronic music. Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects. During the course, assignments such as acoustic measurements, multitrack editing, binaural rendering, field recordings, electronic sound creation, etc. will be distributed. In addition, students may prepare and give oral presentations on audio technology or acoustics that will stimulate further discussion on the topic. By successfully completing the examination requirements, students can earn the certificate of achievement (Leistungsnachweis) in media art. No prior knowledge is required and students from all departments are welcome. Please send an email to lschwarz(at)hfg-karlsruhe.de by October 20, 2024. The lecture will be held in English. The number of places is limited and will be allocated on a first-come, first-served basis.
 
 
-**15 weeks winter semester**<br>
+**15 weeks winter semester 2024/2025**<br>
 
 1. Vibration and sound
 2. Types of waves
-3. Complex waves
-4. Harmonics and overtone series
-5. Wave analysis: fourier transform and window function
-6. Sound levels and the decibel
-7. Room acoustics and measurements
-8. Reverberation
-9. Digital audio
-10. Anatomy of the ear
-11. Binaural hearing
-12. Psychoacoustics
+3. Harmonics and overtone series
+4. Wave analysis: fourier transform and window function
+5. Sound levels and the decibel
+6. Room acoustics and measurements
+7. Reverberation
+8. Digital audio
+9. Anatomy of the ear
+10. Binaural hearing
+11. Psychoacoustics
     
 
 Audioübertragung<br>
