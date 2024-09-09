@@ -1,4 +1,4 @@
-[**FUNDAMENTALS OF SOUND**](#fundamentals)<br>
+# FUNDAMENTALS OF SOUND
 
 *This seminar introduces the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.*<br>
 
@@ -6,7 +6,6 @@
   - Digital audio technology
   - Audio processing
 
-# FUNDAMENTALS OF SOUND<a id="fundamentals"></a>
 
 
 
