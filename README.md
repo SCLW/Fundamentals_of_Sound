@@ -1,6 +1,6 @@
 Inhalte der Kapitel strukturieren<br>
 Bücher bestellen<br>
-Kopien der relevanten Buchseiten machen<bt>
+Kopien der relevanten Buchseiten machen<br>
 Ordner anlegen<br>
 
 
