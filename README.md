@@ -23,6 +23,8 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 Wave Propagation<br>
 Transducers<br>
+Sound Intensity/Pressure etc <br>
+Schallfeldgrößen<br>
 
 **1. Vibration and sound**
 - Short History/Etymology/Glossary
