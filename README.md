@@ -27,6 +27,8 @@ Sound Intensity/Pressure etc <br>
 Schallfeldgrößen<br>
 Analog<br>
 
+### Mind. ein praktisches Beispiel pro Sitzung
+
 **1. Vibration and sound**
 - Short History/Etymology/Glossary
 - Acoustic Sound
