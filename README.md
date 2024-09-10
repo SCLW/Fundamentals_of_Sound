@@ -21,8 +21,8 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 **15 weeks winter semester 2024/2025**<br>
 
-Wave Propagation
-
+Wave Propagation<br>
+Transducers<br>
 
 **1. Vibration and sound**
 - Short History/Etymology/Glossary
