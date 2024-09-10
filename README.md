@@ -25,6 +25,7 @@ Wave Propagation<br>
 Transducers<br>
 Sound Intensity/Pressure etc <br>
 Schallfeldgrößen<br>
+Analog<br>
 
 **1. Vibration and sound**
 - Short History/Etymology/Glossary
