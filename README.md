@@ -21,17 +21,54 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 **15 weeks winter semester 2024/2025**<br>
 
+wo bringe ich Amplitude?
+
 1. Vibration and sound
-2. Types of waves
-3. Harmonics and overtone series
-4. Wave analysis: fourier transform and window function
-5. Sound levels and the decibel
-6. Room acoustics and measurements
-7. Reverberation
-8. Digital audio
-9. Anatomy of the ear
-10. Binaural hearing
-11. Psychoacoustics
+   - Short History/Etymology/Glossary
+   - Acoustic Sound
+   - Harmonic Motion/Vibration/Frequency
+   - Period
+   - Frequency
+   - Wavelength
+
+2. Wave analysis
+   - Time domain vs. frequency domain
+   - Fourier transform
+   - window function
+
+4. Types of waves and noise
+   - Periodic functions
+   - Pure tone
+     - Sine wave, triangle, square wave
+   - complex waves
+     - Triangle and ramp
+     - square wave
+   - noise
+     - White noise
+     - Pink noise
+     - Brownian noise
+     - Blue noise
+     - Violet noise
+     - Grey noise
+     - Velvet noise
+     
+6. Harmonics and overtone series
+   - harmonics and partials overtones
+   - fundamental
+    - natural-tone-row
+    - twelve-tone equal temperament
+
+9. Sound levels and the decibel
+    
+11. Room acoustics and measurements
+    
+12. Reverberation
+    -
+    
+14. Digital audio
+15. Anatomy of the ear
+16. Binaural hearing
+17. Psychoacoustics
     
 
 Audioübertragung<br>
