@@ -78,6 +78,12 @@ Harmonics and harmonic series<br>
 - inner ear
 - Hearing curves
 
+**9. Digital audio**
+- ADDAC
+- Bit rate
+- Bit depth
+- Jitter
+
 
 **6. Sound levels and the decibel**
 - Decibel
@@ -104,11 +110,6 @@ Harmonics and harmonic series<br>
   - digital reverb
   - IR / Convolution
     
-**9. Digital audio**
-- ADDAC
-- Bit rate
-- Bit depth
-- Jitter
 
     
 
