@@ -21,91 +21,95 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 **15 weeks winter semester 2024/2025**<br>
 
-wo bringe ich Amplitude?
+
 
 **1. Vibration and sound**
-   - Short History/Etymology/Glossary
-   - Acoustic Sound
-   - Harmonic Motion/Vibration/Frequency
-   - Period
-   - Frequency
-   - Wavelength
+- Short History/Etymology/Glossary
+- Acoustic Sound
+- Harmonic Motion/Vibration/Frequency
+- Period
+- Frequency
+- Wavelength
+- Amplitude
 
 **2. Wave analysis**
-   - Time domain vs. frequency domain
-   - Fourier transform
-   - Window function
-   - Spectrogram
-   - 
+- Time domain vs. frequency domain
+- Fourier transform
+- Window function
+- Spectrogram
+ 
 
 **3. Types of waves and noise**
-   - Periodic functions
-     - Sine wave
-     - Saw tooth wave
-     - Square wave
-   - Noise types
-     - White noise
-     - Pink noise
-     - Brownian noise
-     - Blue noise
-     - Violet noise
-     - Grey noise
-     - Velvet noise
+- Periodic functions
+  - Sine wave
+  - Saw tooth wave
+  - Square wave
+- Noise types
+  - White noise
+  - Pink noise
+  - Brownian noise
+  - Blue noise
+  - Violet noise
+  - Grey noise
+  - Velvet noise
      
 **4. Harmonics and overtone series**
-    - harmonics and partials overtones
-    - Fundamental
-    - Natural-tone-row
-    - Twelve-tone equal temperament
+- harmonics and partials overtones
+- Fundamental
+- Natural-tone-row
+- Twelve-tone equal temperament
 
-**5. Sound levels and the decibel**
-    - Decibel
-    - Metering 
+**5. Anatomy of the ear**
+- outer ear
+- middle ear
+- inner ear
+- Hearing curves
+
+
+**6. Sound levels and the decibel**
+- Decibel
+- Metering
+- hearing curves
     
-**6. Room acoustics and measurements**
-    - Reflection
-    - Diffraction
-    - Diffusion
-    - Room modes
-    - RT60
-    - Standing waves
+**7. Room acoustics and measurements**
+- Reflection
+- Diffraction
+- Diffusion
+- Room modes
+- RT60
+- Standing waves
       
-**7. Reverberation**
-    - History of Reverberation
-    - Room reflections
-    - early reflections
-    - Tail
-    - Precedence Hass Effect
-    - Reverb effects
-        - Spring reverb
-        - Plate reverb
-        - digital reverb
-        - IR / Convolution
+**8. Reverberation**
+- History of Reverberation
+- Room reflections
+- early reflections
+- Tail
+- Precedence Hass Effect
+- Reverb effects
+  - Spring reverb
+  - Plate reverb
+  - digital reverb
+  - IR / Convolution
     
-**8. Digital audio**
-    - ADDAC
-    - Bit rate
-    - Bit depth
-    - Jitter
-    - 
+**9. Digital audio**
+- ADDAC
+- Bit rate
+- Bit depth
+- Jitter
+
     
-**9. Anatomy of the ear**
-    - outer ear
-    - middle ear
-    - inner ear
-    - Hearing curves
 
 **10. Sound localization**
-    - Binaural hearing
-    - ILD
-    - ITD
-    - HRTF
+- Binaural hearing
+- ILD
+- ITD
+- HRTF
 
     
 **11. Psychoacoustics**
-    - Bregman
-    - Deutsch scale
-    - Risset Tone
+- Bregman
+- Deutsch scale
+- Risset Tone
     
     
 
