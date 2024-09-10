@@ -23,7 +23,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 wo bringe ich Amplitude?
 
-1. Vibration and sound
+**1. Vibration and sound**
    - Short History/Etymology/Glossary
    - Acoustic Sound
    - Harmonic Motion/Vibration/Frequency
@@ -31,19 +31,19 @@ wo bringe ich Amplitude?
    - Frequency
    - Wavelength
 
-2. Wave analysis
+**2. Wave analysis**
    - Time domain vs. frequency domain
    - Fourier transform
-   - window function
+   - Window function
+   - Spectrogram
+   - 
 
-3. Types of waves and noise
+**3. Types of waves and noise**
    - Periodic functions
-   - Pure tone
-     - Sine wave, triangle, square wave
-   - complex waves
-     - Triangle and ramp
-     - square wave
-   - noise
+     - Sine wave
+     - Saw tooth wave
+     - Square wave
+   - Noise types
      - White noise
      - Pink noise
      - Brownian noise
@@ -52,23 +52,25 @@ wo bringe ich Amplitude?
      - Grey noise
      - Velvet noise
      
-4. Harmonics and overtone series
-   - harmonics and partials overtones
-   - fundamental
-    - natural-tone-row
-    - twelve-tone equal temperament
+**4. Harmonics and overtone series**
+    - harmonics and partials overtones
+    - Fundamental
+    - Natural-tone-row
+    - Twelve-tone equal temperament
 
-5. Sound levels and the decibel
+**5. Sound levels and the decibel**
+    - Decibel
+    - Metering 
     
-6. Room acoustics and measurements
-    - reflection
-    - diffraction
-    - diffusion
+**6. Room acoustics and measurements**
+    - Reflection
+    - Diffraction
+    - Diffusion
     - Room modes
     - RT60
     - Standing waves
       
-7. Reverberation
+**7. Reverberation**
     - History of Reverberation
     - Room reflections
     - early reflections
@@ -80,26 +82,27 @@ wo bringe ich Amplitude?
         - digital reverb
         - IR / Convolution
     
-8. Digital audio
+**8. Digital audio**
     - ADDAC
     - Bit rate
     - Bit depth
     - Jitter
     - 
     
-9. Anatomy of the ear
+**9. Anatomy of the ear**
     - outer ear
     - middle ear
     - inner ear
-    - 
+    - Hearing curves
 
-10. Binaural hearing
+**10. Sound localization**
+    - Binaural hearing
+    - ILD
     - ITD
-    - TD
     - HRTF
 
     
-11. Psychoacoustics
+**11. Psychoacoustics**
     - Bregman
     - Deutsch scale
     - Risset Tone
