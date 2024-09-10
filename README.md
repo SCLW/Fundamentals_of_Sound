@@ -36,7 +36,7 @@ wo bringe ich Amplitude?
    - Fourier transform
    - window function
 
-4. Types of waves and noise
+3. Types of waves and noise
    - Periodic functions
    - Pure tone
      - Sine wave, triangle, square wave
@@ -52,23 +52,58 @@ wo bringe ich Amplitude?
      - Grey noise
      - Velvet noise
      
-6. Harmonics and overtone series
+4. Harmonics and overtone series
    - harmonics and partials overtones
    - fundamental
     - natural-tone-row
     - twelve-tone equal temperament
 
-9. Sound levels and the decibel
+5. Sound levels and the decibel
     
-11. Room acoustics and measurements
+6. Room acoustics and measurements
+    - reflection
+    - diffraction
+    - diffusion
+    - Room modes
+    - RT60
+    - Standing waves
+      
+7. Reverberation
+    - History of Reverberation
+    - Room reflections
+    - early reflections
+    - Tail
+    - Precedence Hass Effect
+    - Reverb effects
+        - Spring reverb
+        - Plate reverb
+        - digital reverb
+        - IR / Convolution
     
-12. Reverberation
-    -
+8. Digital audio
+    - ADDAC
+    - Bit rate
+    - Bit depth
+    - Jitter
+    - 
     
-14. Digital audio
-15. Anatomy of the ear
-16. Binaural hearing
-17. Psychoacoustics
+9. Anatomy of the ear
+    - outer ear
+    - middle ear
+    - inner ear
+    - 
+
+10. Binaural hearing
+    - ITD
+    - TD
+    - HRTF
+
+    
+11. Psychoacoustics
+    - Bregman
+    - Deutsch scale
+    - Risset Tone
+    
     
 
 Audioübertragung<br>
