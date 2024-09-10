@@ -27,6 +27,13 @@ Sound Intensity/Pressure etc <br>
 Schallfeldgrößen<br>
 Analog<br>
 
+Audioübertragung<br>
+Properties of sound: Amplitude, frequency, wavelength, phase<br>
+Soundfield properties<br>
+Digital Signal Processing<br>
+Harmonics and harmonic series<br>
+
+
 ### Mind. ein praktisches Beispiel pro Sitzung
 
 **1. Vibration and sound**
@@ -119,11 +126,6 @@ Analog<br>
     
     
 
-Audioübertragung<br>
-Properties of sound: Amplitude, frequency, wavelength, phase<br>
-Soundfield properties<br>
-Digital Signal Processing<br>
-Harmonics and harmonic series<br>
 
 
 
