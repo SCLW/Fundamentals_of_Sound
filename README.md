@@ -36,6 +36,8 @@ Harmonics and harmonic series<br>
 
 ### Mind. ein praktisches Beispiel pro Sitzung
 
+Logarithmus  
+
 **1. Vibration and sound**
 - Short History/Etymology/Glossary
 - Acoustic Sound
