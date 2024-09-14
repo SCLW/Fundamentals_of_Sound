@@ -36,7 +36,7 @@ Harmonics and harmonic series<br>
 
 ### Mind. ein praktisches Beispiel pro Sitzung
 
-Logarithmus  
+Logarithm and Decibels  
 
 **1. Vibration and sound**
 - Short History/Etymology/Glossary
