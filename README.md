@@ -129,6 +129,9 @@ Zwei weitere Sitzungen!!!
 
 ggf erste Sitzung aufspalten  
 
+- FILTER
+- 
+
 
 24.10. -  
 31.10. -  
