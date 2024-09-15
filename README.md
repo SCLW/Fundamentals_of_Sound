@@ -163,16 +163,19 @@ Lectures are held weekly and sessions build on each other. Students are expected
 
 ## Further reading and selective bibliography
 
+
 - Ballou, Glen M. *Handbook for Sound Engineers.* Elsevier, 2008.
 - Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 - Dean, Roger T. *The Oxford Handbook of Computer Music.* Oxford University Press, 2011. 
 - Dickreiter, Michael. *Handbuch Der Tonstudiotechnik.* Vol. 1 & 2, De Gruyter Saur, 2022. 
+- Miranda, Eduardo Reck. *Computer Sound Design: Synthesis Techniques and Programming.* Focal Press, Elsevier, 2008. 
 - Görne, Thomas. *Tontechnik.* Carl Hanser Verlag, 2006.
 - Kahn, Charles H. *Pythagoras and the Pythagoreans: a brief history.* Hackett, 2001.
 - Roads, Curtis. *Composing Electronic Music: a New Aesthetic.* Oxford University Press, 2015.
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer, 2019. 
 - Weinzierl, Stefan. *Handbuch der Audiotechnik.* Springer, 2008. 
 - Wuttke, Jörg. *Mikrofonaufsätze.* Eigenverlag Schalltechnik Dr.-Ing. Schoeps GmbH. 2000.
+
 
 
 # ACADEMIC CALENDAR WINTER SEMESTER 2024-2025
