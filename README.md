@@ -105,7 +105,7 @@ Logarithm and Decibels
 - Room reflections
 - early reflections
 - Tail
-- Precedence Hass Effect
+- Precedence Haas Effect
 - Reverb effects
   - Spring reverb
   - Plate reverb
