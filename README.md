@@ -25,13 +25,9 @@ Wave Propagation<br>
 Transducers<br>
 Sound Intensity/Pressure etc <br>
 Schallfeldgrößen<br>
-Analog<br>
 
-Audioübertragung<br>
-Properties of sound: Amplitude, frequency, wavelength, phase<br>
-Soundfield properties<br>
-Digital Signal Processing<br>
-Harmonics and harmonic series<br>
+
+
 
 
 ### Mind. ein praktisches Beispiel pro Sitzung
@@ -74,33 +70,22 @@ Logarithm and Decibels
 - Natural-tone-row
 - Twelve-tone equal temperament
 
-**5. Anatomy of the ear**
+**5. Anatomy of the ear** and the Human hearing (images, detail information)
 - outer ear
 - middle ear
 - inner ear
 - Hearing curves
 
-**9. Digital audio**
-- ADDAC
-- Bit rate
-- Bit depth
-- Jitter
-
-
-**6. Sound levels and the decibel**
-- Decibel
-- Metering
-- hearing curves
-    
-**7. Room acoustics and measurements**
+**6. Room acoustics and measurements** (Studio layout)
 - Reflection
 - Diffraction
 - Diffusion
 - Room modes
 - RT60
 - Standing waves
+
       
-**8. Reverberation**
+**7. Reverberation**
 - History of Reverberation
 - Room reflections
 - early reflections
@@ -111,25 +96,38 @@ Logarithm and Decibels
   - Plate reverb
   - digital reverb
   - IR / Convolution
-    
+ 
+--> **Wave propagation/sound levels/logarithm**
+**8. Sound levels and the decibel** (structure!)
+- Decibel
+- Metering
+- hearing curves
 
-    
-
-**10. Sound localization**
+**9. Sound localization** (Stereo)
 - Binaural hearing
 - ILD
 - ITD
 - HRTF
+- 
+
+
+**10. Digital audio** (structure)
+- ADDAC
+- Bit rate
+- Bit depth
+- Jitter
 
     
-**11. Psychoacoustics**
+**11. Psychoacoustics** / Auditory illusions (not done yet)
 - Bregman
 - Deutsch scale
 - Risset Tone
     
     
 
+Zwei weitere Sitzungen!!!   
 
+ggf erste Sitzung aufspalten  
 
 
 24.10. -  
