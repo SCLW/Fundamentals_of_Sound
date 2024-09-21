@@ -35,22 +35,23 @@ Schallfeldgrößen<br>
 Logarithm and Decibels  
 
 **1. Vibration and sound**
-- Short History/Etymology/Glossary
-- Acoustic Sound
 - Harmonic Motion/Vibration/Frequency
+- Wave equation ...
+
+**2. Sound wave properties**  
 - Period
 - Frequency
 - Wavelength
 - Amplitude
 
-**2. Wave analysis**
+**3. Wave analysis**
 - Time domain vs. frequency domain
 - Fourier transform
 - Window function
 - Spectrogram
  
 
-**3. Types of waves and noise**
+**4. Types of waves and noise**
 - Periodic functions
   - Sine wave
   - Saw tooth wave
@@ -64,19 +65,21 @@ Logarithm and Decibels
   - Grey noise
   - Velvet noise
      
-**4. Harmonics and overtone series**
+**5. Harmonics and overtone series**
 - harmonics and partials overtones
 - Fundamental
 - Natural-tone-row
 - Twelve-tone equal temperament
 
-**5. Anatomy of the ear** and the Human hearing (images, detail information)
+**6. Anatomy of the ear** and the Human hearing (images, detail information)
 - outer ear
 - middle ear
 - inner ear
 - Hearing curves
 
-**6. Room acoustics and measurements** (Studio layout)
+**7. Room acoustics and measurements** (Studio layout) 
+- Short History/Etymology/Glossary
+- huygens principle
 - Reflection
 - Diffraction
 - Diffusion
@@ -85,7 +88,7 @@ Logarithm and Decibels
 - Standing waves
 
       
-**7. Reverberation**
+**8. Reverberation**
 - History of Reverberation
 - Room reflections
 - early reflections
@@ -98,12 +101,12 @@ Logarithm and Decibels
   - IR / Convolution
  
 --> **Wave propagation/sound levels/logarithm**
-**8. Sound levels and the decibel** (structure!)
+**9. Sound levels and the decibel** (structure!)
 - Decibel
 - Metering
 - hearing curves
 
-**9. Sound localization** (Stereo)
+**10. Sound localization** (Stereo)
 - Binaural hearing
 - ILD
 - ITD
@@ -111,14 +114,14 @@ Logarithm and Decibels
 - 
 
 
-**10. Digital audio** (structure)
+**11. Digital audio** (structure)
 - ADDAC
 - Bit rate
 - Bit depth
 - Jitter
 
     
-**11. Psychoacoustics** / Auditory illusions (not done yet)
+**12. Psychoacoustics** / Auditory illusions (not done yet)
 - Bregman
 - Deutsch scale
 - Risset Tone
