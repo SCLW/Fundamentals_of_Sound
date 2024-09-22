@@ -111,7 +111,7 @@ Logarithm and Decibels
 - ILD
 - ITD
 - HRTF
-- 
+- Stereophonic sound
 
 
 **11. Digital audio** (structure)
@@ -126,14 +126,9 @@ Logarithm and Decibels
 - Deutsch scale
 - Risset Tone
     
-    
-
-Zwei weitere Sitzungen!!!   
-
-ggf erste Sitzung aufspalten  
-
+  
 - FILTER
-- 
+  
 
 
 24.10. -  
