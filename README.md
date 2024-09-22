@@ -193,9 +193,9 @@ Lectures are held weekly and sessions build on each other. Students are expected
 | January  | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri |
 | February | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri |     |     |     |
 
-Semester Start Date: October 1, 2024<br>
+Semester start date: October 1, 2024<br>
 Introductory week: October 14 - 18, 2024<br>
-Instruction Begins: October 21, 2024<br>
-Instruction Ends: February 15, 2025<br>
-Semester Ends: March 31, 2025<br>
-Academic/Administrative Holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
+Instruction begins: October 21, 2024<br>
+Instruction ends: February 15, 2025<br>
+Semester ends: March 31, 2025<br>
+Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
