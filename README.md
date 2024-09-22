@@ -170,11 +170,12 @@ Lectures are held weekly and sessions build on each other. Students are expected
 - Miranda, Eduardo Reck. *Computer Sound Design: Synthesis Techniques and Programming.* Focal Press, Elsevier, 2008. 
 - Görne, Thomas. *Tontechnik.* Carl Hanser Verlag, 2006.
 - Kahn, Charles H. *Pythagoras and the Pythagoreans: a brief history.* Hackett, 2001.
+- Puckette, Miller. *The Theory and Technique of Electronic Music Miller Puckette.* World Scientific, 2011. 
 - Roads, Curtis. *Composing Electronic Music: a New Aesthetic.* Oxford University Press, 2015.
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer, 2019. 
+- Smith, Julius O. *Spectral Audio Signal Processing.* W3K, 2011. 
 - Weinzierl, Stefan. *Handbuch der Audiotechnik.* Springer, 2008. 
 - Wuttke, Jörg. *Mikrofonaufsätze.* Eigenverlag Schalltechnik Dr.-Ing. Schoeps GmbH. 2000.
-
 
 
 # ACADEMIC CALENDAR WINTER SEMESTER 2024-2025
