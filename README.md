@@ -91,10 +91,13 @@ Logarithm and Decibels
 **8. Reverberation**
 - History of Reverberation
 - Room reflections
+- Reverberation time
 - early reflections
 - Tail
-- Precedence Haas Effect
-- Reverb effects
+- Precedence / Haas effect
+- Measurement
+- Artifical reverberation
+  - Echo chambers
   - Spring reverb
   - Plate reverb
   - digital reverb
