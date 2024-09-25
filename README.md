@@ -103,11 +103,10 @@ Logarithm and Decibels
   - digital reverb
   - IR / Convolution
  
---> **Wave propagation/sound levels/logarithm**
-**9. Sound levels and the decibel** (structure!)
+**9. Acoustical Quantities**
 - Decibel
 - Metering
-- hearing curves
+- SChallfeldgrößen etc.
 
 **10. Sound localization** (Stereo)
 - Binaural hearing
