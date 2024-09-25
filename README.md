@@ -64,6 +64,13 @@ Logarithm and Decibels
   - Violet noise
   - Grey noise
   - Velvet noise
+
+
+**9. Acoustical Quantities**
+- Decibel
+- Metering
+- SChallfeldgrößen etc.
+  
      
 **5. Harmonics and overtone series**
 - harmonics and partials overtones
@@ -76,6 +83,19 @@ Logarithm and Decibels
 - middle ear
 - inner ear
 - Hearing curves
+
+**10. Sound localization** (Stereo)
+- Binaural hearing
+- ILD
+- ITD
+- HRTF
+- Stereophonic sound
+
+    
+**12. Psychoacoustics** / Auditory illusions (not done yet)
+- Bregman
+- Deutsch scale
+- Risset Tone
 
 **7. Room acoustics and measurements** (Studio layout) 
 - Short History/Etymology/Glossary
@@ -103,30 +123,16 @@ Logarithm and Decibels
   - digital reverb
   - IR / Convolution
  
-**9. Acoustical Quantities**
-- Decibel
-- Metering
-- SChallfeldgrößen etc.
-
-**10. Sound localization** (Stereo)
-- Binaural hearing
-- ILD
-- ITD
-- HRTF
-- Stereophonic sound
 
 
+  
 **11. Digital audio** (structure)
 - ADDAC
 - Bit rate
 - Bit depth
 - Jitter
 
-    
-**12. Psychoacoustics** / Auditory illusions (not done yet)
-- Bregman
-- Deutsch scale
-- Risset Tone
+
     
   
 - FILTER
