@@ -36,18 +36,22 @@ Logarithm and Decibels
 
 **1. Vibration and sound**
 - Harmonic Motion/Vibration/Frequency
+- Introduction
 - Wave equation ...
+- spring-mass system
 
 **2. Sound wave properties**  
 - Period
 - Frequency
 - Wavelength
 - Amplitude
+- Speed of sound
 
 **3. Wave analysis**
 - Time domain vs. frequency domain
 - Fourier transform
 - Window function
+- Amplitude diagram
 - Spectrogram
  
 
@@ -56,6 +60,10 @@ Logarithm and Decibels
   - Sine wave
   - Saw tooth wave
   - Square wave
+- Bursts and Impulses
+  - Noise burst
+  - Tone burst
+  - Dirac impulse
 - Noise types
   - White noise
   - Pink noise
@@ -66,38 +74,36 @@ Logarithm and Decibels
   - Velvet noise
 
 
-**9. Acoustical Quantities**
+**5. Acoustical Quantities**
+- Logarithm
 - Decibel
 - Metering
-- SChallfeldgrößen etc.
+- Schallfeldgrößen etc.
+    - Intensitiy
+    - 
+**6. FILTER**
   
      
-**5. Harmonics and overtone series**
+**7. Harmonics and overtone series**
 - harmonics and partials overtones
+- String
+  - modes
 - Fundamental
 - Natural-tone-row
 - Twelve-tone equal temperament
 
-**6. Anatomy of the ear** and the Human hearing (images, detail information)
+**8. Anatomy of the ear** and the Human hearing (images, detail information)
 - outer ear
 - middle ear
 - inner ear
 - Hearing curves
 
-**10. Sound localization** (Stereo)
-- Binaural hearing
-- ILD
-- ITD
-- HRTF
-- Stereophonic sound
-
-    
-**12. Psychoacoustics** / Auditory illusions (not done yet)
+**8. Psychoacoustics** / Auditory illusions (not done yet)
 - Bregman
 - Deutsch scale
 - Risset Tone
 
-**7. Room acoustics and measurements** (Studio layout) 
+**9. Room acoustics and measurements** (Studio layout) 
 - Short History/Etymology/Glossary
 - huygens principle
 - Reflection
@@ -107,8 +113,17 @@ Logarithm and Decibels
 - RT60
 - Standing waves
 
-      
-**8. Reverberation**
+    
+**10. Sound localization** (Stereo)
+- Binaural hearing
+- ILD
+- ITD
+- HRTF
+- Stereophonic sound
+
+  
+
+**11. Reverberation**
 - History of Reverberation
 - Room reflections
 - Reverberation time
@@ -126,7 +141,7 @@ Logarithm and Decibels
 
 
   
-**11. Digital audio** (structure)
+**12. Digital audio** (structure)
 - ADDAC
 - Bit rate
 - Bit depth
@@ -135,7 +150,6 @@ Logarithm and Decibels
 
     
   
-- FILTER
   
 
 
