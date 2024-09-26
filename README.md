@@ -1,4 +1,4 @@
-Inhalte der Kapitel strukturieren<br>
+xtInhalte der Kapitel strukturieren<br>
 Bücher bestellen<br>
 Kopien der relevanten Buchseiten machen<br>
 Ordner anlegen<br>
@@ -35,10 +35,11 @@ Schallfeldgrößen<br>
 Logarithm and Decibels  
 
 **1. Vibration and sound**
-- Harmonic Motion/Vibration/Frequency
 - Introduction
-- Wave equation ...
+- Simple harmonic motion
 - spring-mass system
+- Wave equation
+- Vibration
 
 **2. Sound wave properties**  
 - Period
@@ -51,10 +52,9 @@ Logarithm and Decibels
 - Time domain vs. frequency domain
 - Fourier transform
 - Window function
-- Amplitude diagram
-- Spectrogram
+- Graphical representation of waveforms
+  - Spectrogram
  
-
 **4. Types of waves and noise**
 - Periodic functions
   - Sine wave
@@ -64,15 +64,13 @@ Logarithm and Decibels
   - Noise burst
   - Tone burst
   - Dirac impulse
-- Noise types
+- Stochastic signals
   - White noise
   - Pink noise
   - Brownian noise
   - Blue noise
   - Violet noise
   - Grey noise
-  - Velvet noise
-
 
 **5. Acoustical Quantities**
 - Logarithm
@@ -80,7 +78,8 @@ Logarithm and Decibels
 - Metering
 - Schallfeldgrößen etc.
     - Intensitiy
-    - 
+ 
+      
 **6. FILTER**
   
      
