@@ -81,6 +81,25 @@ Logarithm and Decibels
  
       
 **6. FILTER**
+- Electronic filter
+- Filter parameters
+- Transfer function plots
+- Bode magnitude plot
+- Frequency and phase response
+- Magnitude, gain
+- Q factor, (quality factor) emphasis, quality
+- Stopband, passband, transition band
+- Cutoff/corner frequency
+- Center frequency, bandwidth
+- Roll-off, slope, filter order
+- Low-pass filter
+- High-pass filter
+- Band-pass filter
+- Band reject filter
+- Notch filter
+- Shelving filters
+- All-pass filter
+- Comb filter
   
      
 **7. Harmonics and overtone series**
