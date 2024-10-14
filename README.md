@@ -14,19 +14,19 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 | Date |		Topic			                    |	  |
 |  --  |		--			                      |  --	|
-|24.10.| Vibration and sound			        |	Wellengleichung, Harmonic motion, idealised spherical wave and wave propagation |
+|24.10.| Vibration and sound			        |	Harmonic motion, sinusoids, point and line source, spherical waves, superposition |
 |31.10.| Sound wave properties			      |	  |
-|07.11.| Wave analysis				            |	Fourier, FFT, windowing, time and frequency representation, spectrale representation |
-|14.11.| Types of waves and noise		      |	Signalformen, Periodic and stochastic, impulses, pulse waves |
+|07.11.| Wave analysis				            |	time and frequency domain, discrete-time fourier transform, windowing, spectral representation |
+|14.11.| Types of waves and noise		      |	Periodic and stochastic signals, impulses, pulse waves |
 |21.11.| Acoustical Quantities			      |	Schall- und Schallausbreitung  |
-|28.11.| Filter					                  |	  |
+|28.11.| Filter					                  |	Filter characteristics, Equalizers, Digital Filters, HP, LP, BP, AP,  |
 |05.12.| Harmonics and overtone series		|	  |
-|12.12.| The human hearing			          |	Anatomy and physiology, Masking, Pitch perception, Subjectiv elements of hearing, Sensitivity, Auditory perception, Schall- und Hörereignis, Lautheit, Rauheit, Tondauer, Verdeckung  |
+|12.12.| The human hearing			          |	Anatomy and physiology, auditory perception, masking, pitch and loudness, sensitivity and selectivity, subjectiv elements of hearing |
 |19.12.| Psychoacoustics			            |	  |
-|09.01.| Room acoustics and measurements	|	Wave propagation in the room, standing waves, direct sound, reflections, diffraction, diffusion  |
-|16.01.| Sound localization			          | horizontal and vertical plane, ITD ILD, Richtung und Entfernung, Stereofonie, Phantomschallquellen, Kunstkopfverfahren  |
-|23.01.| Reverberation				            |	Nachall, Hallradius, Echho Effectgeräte, Raum/Hallmessung  |
-|30.01.| Digital audio				            |	  |
+|09.01.| Room acoustics and measurements	|	Wave propagation in the room, standing waves, room modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion  |
+|16.01.| Sound localization			          | Horizontal and vertical plane, ITD, ILD, distance perception, stereophony, phantom sources, dummy head, HRTF, Cocktail Party Effect  |
+|23.01.| Reverberation				            |	, Nachall, Hallradius, Echho Effectgeräte, Raum/Hallmessung, Raumsimulation |
+|30.01.| Digital audio				            |	Abtastung und Rekonstruktion, Quantisierung, Dither, Delta-Sigma-Modulation  |
 |06.02.| Discussion				                |	  |
 |13.02.| Oral presentations               |	  |
 
