@@ -12,6 +12,25 @@
 Teaches the fundamental aspects of sound, its production, propagation, recording and reproduction by introducing the underlying laws and models of physics, physiology and psychology. A proper understanding of this material is essential for the development of profound artistic expression in the sound-related arts. The aim of the course is to provide a theoretical background in sound technology and relevant audio topics, which promotes independent problem-solving skills in the realization of creative ideas. This is useful in the areas of media art and moving image, including sound design, acoustic communication, and electronic music. Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects. During the course, assignments such as acoustic measurements, multitrack editing, binaural rendering, field recordings, electronic sound creation, etc. will be distributed. In addition, students may prepare and give oral presentations on audio technology or acoustics that will stimulate further discussion on the topic. By successfully completing the examination requirements, students can earn the certificate of achievement (Leistungsnachweis) in media art. No prior knowledge is required and students from all departments are welcome. Please send an email to lschwarz(at)hfg-karlsruhe.de by October 20, 2024. The lecture will be held in English. The number of places is limited and will be allocated on a first-come, first-served basis.
 
 
+| Date |		Topic			|	|
+|  --  |		--			|  --	|
+|24.10.| Vibration and sound			|	|
+|31.10.| Sound wave properties			|	|
+|07.11.| Wave analysis				|	|
+|14.11.| Types of waves and noise		|	|
+|21.11.| Acoustical Quantities			|	|
+|28.11.| Filter					|	|
+|05.12.| Harmonics and overtone series		|	|
+|12.12.| The human hearing			|	|
+|19.12.| Psychoacoustics			|	|
+|09.01.| Room acoustics and measurements	|	|
+|16.01.| Sound localization			|	|
+|23.01.| Reverberation				|	|
+|30.01.| Digital audio				|	|
+|06.02.| Discussion				|	|
+|13.02.|					|	|
+
+
 **15 weeks winter semester 2024/2025**<br>
 
 
