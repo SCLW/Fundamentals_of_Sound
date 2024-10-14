@@ -27,8 +27,8 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 |16.01.| Sound localization			          | Horizontal and vertical plane, ITD, ILD, distance perception, stereophonic sound, phantom sources, dummy head, HRTF, cocktail party effect |
 |23.01.| Reverberation				            |	Space, reverberation time, reverb in audio production, echo, artificial reverberation and reverb plug-ins, room simulation, T<sub>60</sub> measurement |
 |30.01.| Digital audio				            |	Sampling and reconstraction, quantization, oversampling, dithering, delta-sigma modulation  |
-|06.02.| Discussion				                |	  |
-|13.02.| Oral presentations               |	  |
+|06.02.| Discussion				                |	Opportunity for students to engage in exploratory discussion and real-world implications of theory  |
+|13.02.| Oral presentations               |	15 minutes long in-class presentation, followed by a short question and answer period  |
 
 
 **15 weeks winter semester 2024/2025**<br>
