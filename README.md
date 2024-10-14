@@ -14,18 +14,19 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 | Date |		Topic			                    |	  |
 |  --  |		--			                      |  --	|
-|24.10.| Vibration and sound			        |	  |
-|31.10.| Sound wave properties			      |	  |
-|07.11.| Wave analysis				            |	  |
-|14.11.| Types of waves and noise		      |	  |
-|21.11.| Acoustical Quantities			      |	  |
+|24.10.| Vibration and sound			        |	Wellengleichung, Harmonic motion, idealisierte Kugelwelle  |
+|31.10.| Sound wave properties			      |	Signalformen  |
+|07.11.| Wave analysis				            |	Fourier transform, Zeitdartstellung, spectrale Darstellung |
+|14.11.| Types of waves and noise		      |	Periodic and stochastic, impulses, Pulswaves |
+|21.11.| Acoustical Quantities			      |	Schall- und Schallausbreitung  |
 |28.11.| Filter					                  |	  |
 |05.12.| Harmonics and overtone series		|	  |
-|12.12.| The human hearing			          |	  |
+|12.12.| The human hearing			          |	Anatomy des Gehörs, Schall- und Hörereignis, Lautheit, Rauheit, Tondauer, Verdeckung  |
 |19.12.| Psychoacoustics			            |	  |
-|09.01.| Room acoustics and measurements	|	  |
-|16.01.| Sound localization			          |	  |
-|23.01.| Reverberation				            |	  |
+|09.01.| Room acoustics and measurements	|	Schallausbreitung im Raum, Stehende Wellen, Direktschall und Reflexionen, Diffraction
+- Diffusion  |
+|16.01.| Sound localization			          | Horizontale ebene, vertikale 	Ebene, ITD ILD, Richtung und Entfernung, Stereofonie, Phantomschallquellen, Kunstkopfverfahren  |
+|23.01.| Reverberation				            |	Nachall, Hallradius, Echho Effectgeräte, Raum/Hallmessung  |
 |30.01.| Digital audio				            |	  |
 |06.02.| Discussion				                |	  |
 |13.02.| Oral presentations               |	  |
