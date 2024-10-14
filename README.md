@@ -24,11 +24,11 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 |12.12.| The human hearing			          |	Anatomy and physiology, auditory perception, masking, pitch and loudness, sensitivity and selectivity, subjectiv elements of hearing |
 |19.12.| Psychoacoustics			            |	  |
 |09.01.| Room acoustics and measurements	|	Wave propagation in the room, standing waves, room modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion  |
-|16.01.| Sound localization			          | Horizontal and vertical plane, ITD, ILD, distance perception, stereophonic sound, phantom sources, dummy head, HRTF, cocktail party effect |
-|23.01.| Reverberation				            |	Space, reverberation time, reverb in audio production, echo, artificial reverberation and reverb plug-ins, room simulation, T<sub>60</sub> measurement |
+|16.01.| Sound localization			          | ITD, ILD, distance perception, stereophonic sound, phantom sources, dummy head, HRTF, cocktail party effect |
+|23.01.| Reverberation				            |	Space, reverberation time, echo, T<sub>60</sub> measurement, reverb in audio production, artificial reverberation and reverb plug-ins, room simulation |
 |30.01.| Digital audio				            |	Sampling and reconstraction, quantization, oversampling, dithering, delta-sigma modulation  |
 |06.02.| Discussion				                |	Opportunity for students to engage in exploratory discussion and real-world implications of theory  |
-|13.02.| Oral presentations               |	15 minutes long in-class presentation, followed by a short question and answer period  |
+|13.02.| Oral presentations               |	15 minutes long in-class presentations, followed by a short question and answer period  |
 
 
 **15 weeks winter semester 2024/2025**<br>
