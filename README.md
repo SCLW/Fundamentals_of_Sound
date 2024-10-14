@@ -1,10 +1,3 @@
-xtInhalte der Kapitel strukturieren<br>
-Bücher bestellen<br>
-Kopien der relevanten Buchseiten machen<br>
-Ordner anlegen<br>
-
-
-
 # FUNDAMENTALS OF SOUND
 
 *This seminar introduces the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.*<br>
@@ -21,18 +14,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 **15 weeks winter semester 2024/2025**<br>
 
-Wave Propagation<br>
-Transducers<br>
-Sound Intensity/Pressure etc <br>
-Schallfeldgrößen<br>
 
-
-
-
-
-### Mind. ein praktisches Beispiel pro Sitzung
-
-Logarithm and Decibels  
 
 **1. Vibration and sound**
 - Introduction
@@ -193,6 +175,10 @@ Logarithm and Decibels
 
 The aim is to develop a basic understanding of the physical and psychophysiological foundations of the phenomenon of sound. 
 
+##
+
+Audacity
+https://www.audacityteam.org/download/
 
 
 ## Workload and time investment
@@ -203,7 +189,10 @@ Lectures are held weekly and sessions build on each other. Students are expected
 ## Further reading and selective bibliography
 
 
+<!-- footer: Works cited -->
+
 - Ballou, Glen M. *Handbook for Sound Engineers.* Elsevier, 2008.
+- Beyer, Robert T. Sounds of Our Times: Two Hundred Years of Acoustics. Springer Press, 1999. 
 - Blauert, Jens. *Spatial Hearing: The Psychophysics of Human Sound Localization.* MIT Press, 1997. 
 - Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
 - Brixen, Eddy B. *Audio Metering: Measurements, Standards and Practice.* Routledge, 2020. 
@@ -214,8 +203,10 @@ Lectures are held weekly and sessions build on each other. Students are expected
 - Roads, Curtis. *Composing Electronic Music: a New Aesthetic.* Oxford University Press, 2015.
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer, 2019. 
 - Smith, Julius O. *Spectral Audio Signal Processing.* W3K, 2011. 
+- Valimaki, Vesa, et al. “Fifty Years of artificial reverberation.” IEEE Transactions on Audio, Speech, and Language Processing, vol. 20, no. 5, July 2012, pp. 1421–1448, https://doi.org/10.1109/tasl.2012.2189567. 
 - Weinzierl, Stefan. *Handbuch der Audiotechnik.* Springer, 2008. 
 - Wuttke, Jörg. *Mikrofonaufsätze.* Eigenverlag Schalltechnik Dr.-Ing. Schoeps GmbH. 2000.
+- Yost, William A. Fundamentals of Hearing: An Introduction. Elsevier/Academic Press, 2007. 
 
 
 
