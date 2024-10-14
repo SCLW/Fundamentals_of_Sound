@@ -20,13 +20,13 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 |14.11.| Types of waves and noise		      |	Periodic and stochastic signals, impulses, pulse waves |
 |21.11.| Acoustical Quantities			      |	Sound field quantities  |
 |28.11.| Filter					                  |	Filter characteristics, equalizers, digital filters, HP, LP, BP, AP,  |
-|05.12.| Harmonics and overtone series		|	  |
+|05.12.| Harmonics and overtone series		|	Partials, overtones, scale of harmonics, ratios and intervals, tunings  |
 |12.12.| The human hearing			          |	Anatomy and physiology, auditory perception, masking, pitch and loudness, sensitivity and selectivity, subjectiv elements of hearing |
 |19.12.| Psychoacoustics			            |	  |
 |09.01.| Room acoustics and measurements	|	Wave propagation in the room, standing waves, room modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion  |
 |16.01.| Sound localization			          | Horizontal and vertical plane, ITD, ILD, distance perception, stereophonic sound, phantom sources, dummy head, HRTF, cocktail party effect |
 |23.01.| Reverberation				            |	, Nachall, Hallradius, Echho Effectgeräte, Raum/Hallmessung, Raumsimulation |
-|30.01.| Digital audio				            |	Sampling and reconstructing, quantization, dithering, Delta-sigma modulation  |
+|30.01.| Digital audio				            |	Sampling and reconstructing, quantization, oversampling, dithering, delta-sigma modulation  |
 |06.02.| Discussion				                |	  |
 |13.02.| Oral presentations               |	  |
 
