@@ -14,14 +14,14 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 | Date |		Topic			                    |	  |
 |  --  |		--			                      |  --	|
-|24.10.| Vibration and sound			        |	Wellengleichung, Harmonic motion, idealisierte Kugelwelle  |
-|31.10.| Sound wave properties			      |	Signalformen  |
+|24.10.| Vibration and sound			        |	Wellengleichung, Harmonic motion, idealisierte Kugelwelle und Schallausbreitung |
+|31.10.| Sound wave properties			      |	  |
 |07.11.| Wave analysis				            |	Fourier transform, Zeitdartstellung, spectrale Darstellung |
-|14.11.| Types of waves and noise		      |	Periodic and stochastic, impulses, Pulswaves |
+|14.11.| Types of waves and noise		      |	Signalformen, Periodic and stochastic, impulses, Pulswaves |
 |21.11.| Acoustical Quantities			      |	Schall- und Schallausbreitung  |
 |28.11.| Filter					                  |	  |
 |05.12.| Harmonics and overtone series		|	  |
-|12.12.| The human hearing			          |	Anatomy des Gehörs, Schall- und Hörereignis, Lautheit, Rauheit, Tondauer, Verdeckung  |
+|12.12.| The human hearing			          |	Anatomy and physiology, Masking, Pitch perception, Subjectiv elements of hearing, Sensitivity, Auditory perception, Schall- und Hörereignis, Lautheit, Rauheit, Tondauer, Verdeckung  |
 |19.12.| Psychoacoustics			            |	  |
 |09.01.| Room acoustics and measurements	|	Schallausbreitung im Raum, Stehende Wellen, Direktschall und Reflexionen, Diffraction
 - Diffusion  |
