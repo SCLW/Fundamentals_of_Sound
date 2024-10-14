@@ -14,15 +14,15 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 | Date |		Topic			                    |	  |
 |  --  |		--			                      |  --	|
-|24.10.| Vibration and sound			        |	Harmonic motion, sinusoids, point sources and spherical waves, superposition |
-|31.10.| Sound wave properties			      |	Amplitude, RMS value, period, wavelength, frequency, speed of sound  |
-|07.11.| Wave analysis				            |	time and frequency domain, discrete-time fourier transform, windowing, spectral representation |
+|24.10.| Vibration and sound			        |	Harmonic motion, sinusoids, point sources and spherical waves |
+|31.10.| Sound wave properties			      |	Amplitude, RMS value, superposition, period, wavelength, frequency, speed of sound  |
+|07.11.| Wave analysis				            |	Time and frequency domain, discrete-time fourier transform, windowing, spectral representation |
 |14.11.| Types of waves and noise		      |	Periodic and stochastic signals, impulses, pulse waves |
 |21.11.| Acoustical Quantities			      |	Logarithm and decibel, sound field quantities and metering  |
-|28.11.| Filter					                  |	Filter characteristics, equalizers, digital filters, HP, LP, BP, AP,  |
+|28.11.| Filter					                  |	Filter characteristics, frequency response, equalizers, digital filters, HP, LP, BP, AP  |
 |05.12.| Harmonics and overtone series		|	Fundamental and overtones, partials, scale of harmonics, ratios and intervals, formants  |
-|12.12.| The human hearing			          |	Anatomy and physiology, auditory perception, masking, pitch and loudness, sensitivity and selectivity, subjectiv elements of hearing |
-|19.12.| Psychoacoustics			            |	  |
+|12.12.| The human hearing			          |	Anatomy and physiology, auditory system, auditory perception, neural encoding,  |
+|19.12.| Psychoacoustics			            |	Speech perception, masking, pitch and loudness, sensitivity and selectivity, subjectiv elements of hearing, Auditory scene analysis (ASA), auditory illusions |
 |09.01.| Room acoustics and measurements	|	Wave propagation in the room, standing waves, room modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion  |
 |16.01.| Sound localization			          | ITD, ILD, distance perception, stereophonic sound, phantom sources, dummy head, HRTF, cocktail party effect |
 |23.01.| Reverberation				            |	Space, reverberation time, echo, T<sub>60</sub> measurement, reverb in audio production, artificial reverberation and reverb plug-ins, room simulation |
