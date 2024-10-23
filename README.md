@@ -42,8 +42,12 @@ The aim is to develop a basic understanding of the physical and psychophysiologi
 
 ##
 
-Audacity
-https://www.audacityteam.org/download/
+## Tools and software
+
+USB Stick <br>
+Audacity https://www.audacityteam.org/download/ <br>
+Praat <br>
+Pure data / Max MSP <br>
 
 
 ## Workload and time investment
