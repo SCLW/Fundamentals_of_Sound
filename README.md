@@ -17,7 +17,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 | Date   | Topic                           |                                                                                                                                                               |
 | ------ | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 24.10. | Introduction                    | Introduction to audio technology and overview of the topics                                                                                                   |
-| 31.10. | Vibration and sound             | Harmonic motion, sinusoids, sound wave propagation, sound field and sound energy quantities                                                                   |
+| 31.10. | Vibration and sound             | Harmonic motion, sinusoids, sound wave propagation, acoustic measures                                                                   |
 | 07.11. | Sound wave properties           | Amplitude, period, wavelength, frequency, speed of sound                                                                                                      |
 | 14.11. | Wave analysis                   | Time and frequency domain, discrete-time fourier transform, windowing, spectral representation                                                                |
 | 21.11. | Types of waves and noise        | Periodic and stochastic signals, impulses, pulse waves                                                                                                        |
