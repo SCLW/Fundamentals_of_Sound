@@ -16,15 +16,15 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 | Date   | Topic                           |                                                                                                                                                               |
 | ------ | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 24.10. | Introduction                    | Introduction to audio technology and overview of the topics                                                                                                   |
+| 24.10. | Introduction                    | Introduction to sound-related arts and audio technology, summary of the course content and objectives                                                                                                   |
 | 31.10. | Vibration and sound             | Harmonic motion, sinusoids, sound wave propagation, acoustic measures                                                                   |
-| 07.11. | Sound wave properties           | Amplitude, period, wavelength, frequency, speed of sound                                                                                                      |
-| 14.11. | Wave analysis                   | Time and frequency domain, discrete-time fourier transform, windowing, spectral representation                                                                |
-| 21.11. | Types of waves and noise        | Periodic and stochastic signals, impulses, pulse waves                                                                                                        |
-| 28.11. | Filter                          | Filter characteristics, frequency response, equalizers, digital filters, HP, LP, BP, AP                                                                       |
-| 05.12. | Harmonics and overtone series   | Fundamental and overtones, partials, scale of harmonics, ratios and intervals, formants                                                                       |
+| 07.11. | Sound wave properties           | Amplitude, effective value, period, phase, frequency, wavelength, speed of sound                                                                                                      |
+| 14.11. | Wave analysis                   | Time and frequency domain, discrete-time fourier transform, windowing, spectral representations of signals                                                                |
+| 21.11. | Types of waves and noise        | Periodic, stochastic, and impulse signals                                                                                                        |
+| 28.11. | Filter                          | Filter types and response characterisitcs, analog and digital filters                                                                     |
+| 05.12. | Harmonics and overtone series   | Fundamental and overtones, partials, scale of harmonics, tunings, ratios and intervals, formants                                                                       |
 | 12.12. | The human hearing               | Anatomy and physiology, auditory system, auditory perception, neural encoding,                                                                                |
-| 19.12. | Room acoustics and measurements | Wave propagation in the room, standing waves, room modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion                            |
+| 19.12. | Room acoustics and measurements | Wave propagation in the room, modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion                            |
 | 09.01. | Psychoacoustics                 | Speech perception, masking, pitch and loudness, sensitivity and selectivity, subjectiv elements of hearing, Auditory scene analysis (ASA), auditory illusions |
 | 16.01. | Sound localization              | ITD, ILD, distance perception, stereophonic sound, phantom sources, dummy head, HRTF, cocktail party effect                                                   |
 | 23.01. | Sound and Space                 | Space, reverberation time, echo, T<sub>60</sub> measurement, reverb in audio production, artificial reverberation and reverb plug-ins, room simulation        |
