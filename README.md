@@ -53,7 +53,7 @@ Lectures are held weekly and sessions build on each other. Students are expected
 
 ## Tools and software
 
-course assignments will require you to use a computer to complete and submit your assignment
+Course assignments will require you to use a computer to complete and submit your assignment. Additional sound equipment will be introduced during the course and used as working material.
 
 The course may require the following software 
 
