@@ -43,18 +43,17 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 
 
-## Learning objectives
+### Learning objectives
 
 The aim is to develop a basic understanding of the physical and psychophysiological foundations of the phenomenon of sound. 
 
-##
 
 
-## Workload and time investment
+### Workload and time investment
 
 Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects.
 
-## Tools and software
+### Tools and software
 
 Course assignments will require you to use a computer to complete and submit your assignment. Additional sound equipment will be introduced during the course and used as working material.
 
@@ -70,7 +69,7 @@ Pure data / Max MSP <br>
   <img alt="Trigonometric function, the unit circle, sine and cosine" src="/Img/Sine_Cosine_FOS_Light_Mode.svg">
 </picture>
 
-## Further reading and selective bibliography
+### Further reading and selective bibliography
 
 
 <!-- footer: Works cited -->
