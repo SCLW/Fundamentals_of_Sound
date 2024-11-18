@@ -11,8 +11,9 @@ In addition to courses dealing with core competencies (programming, software eng
 *This seminar introduces the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.*<br>
 
   - Acoustics and psychoacoustics
-  - Digital audio technology
   - Audio processing
+  - Digital audio technology
+
 
 
 
