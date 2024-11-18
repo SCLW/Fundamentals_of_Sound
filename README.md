@@ -6,7 +6,7 @@
 
   - Acoustics and psychoacoustics
   - Audio processing
-  - Digital audio technology
+  - Digital and analog audio technology
 
 
 
