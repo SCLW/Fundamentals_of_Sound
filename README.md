@@ -45,24 +45,21 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 ### Learning objectives
 
-The aim is to develop a basic understanding of the physical and psychophysiological foundations of the phenomenon of sound. 
+- The aim is to develop a basic understanding of the physical and psychophysiological foundations of the phenomenon of sound. 
 
 
 
 ### Workload and time investment
 
-Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects.
+- Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects.
 
-### Tools and software
+### Prerequisites
 
-Course assignments will require you to use a computer to complete and submit your assignment. Additional sound equipment will be introduced during the course and used as working material.
 
-The course may require the following software 
+- Software install required. Install instructions will be provided during the course:
+[Audacity](https://www.audacityteam.org/download/ "Audacity") <br>
 
-USB Stick <br>
-Audacity https://www.audacityteam.org/download/ <br>
-Praat <br>
-Pure data / Max MSP <br>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Img/Sine_Cosine_FOS_Dark_Mode.svg">
