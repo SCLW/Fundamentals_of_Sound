@@ -6,10 +6,6 @@ In addition to courses dealing with core competencies (programming, software eng
 
 # FUNDAMENTALS OF SOUND
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/Img/Sine_Cosine_FOS_Dark_Mode.svg">
-  <img alt="Trigonometric function, the unit circle, sine and cosine" src="/Img/Sine_Cosine_FOS_Light_Mode.svg">
-</picture>
 
 
 *This seminar introduces the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.*<br>
@@ -67,6 +63,11 @@ USB Stick <br>
 Audacity https://www.audacityteam.org/download/ <br>
 Praat <br>
 Pure data / Max MSP <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/Img/Sine_Cosine_FOS_Dark_Mode.svg">
+  <img alt="Trigonometric function, the unit circle, sine and cosine" src="/Img/Sine_Cosine_FOS_Light_Mode.svg">
+</picture>
 
 ## Further reading and selective bibliography
 
