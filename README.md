@@ -35,7 +35,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 | 19.12. | Room acoustics and measurements | Wave propagation in the room, modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion                            |
 | 09.01. | Psychoacoustics                 | Speech perception, pitch and loudness, sensitivity and selectivity, masking, subjectiv elements of hearing, Auditory scene analysis (ASA), auditory illusions |
 | 16.01. | Sound localization              | Binaural hearing, distance perception, stereophonic sound, dummy head recordings, HRTF, cocktail party effect                                                   |
-| 23.01. | Sound and Space                 | Space, reverberation time, echo, T<sub>60</sub> measurement, reverb in audio production, artificial reverberation and room simulation        |
+| 23.01. | Sound and Space                 | Reverberation time, echo, T<sub>60</sub> measurement, reverb in audio production, artificial reverberation and room simulation        |
 | 30.01. | Digital audio                   | Sampling and reconstruction, quantization, oversampling, dithering, delta-sigma modulation                                                                    |
 | 06.02. | Oral presentations              | 15 minutes long in-class presentations, followed by a short question and answer period                                                                        |
 | 13.02. | Discussion                      | Opportunity for students to engage in exploratory discussion and real-world implications of theory                                                            |
