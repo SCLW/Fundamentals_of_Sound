@@ -62,6 +62,9 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
   <img alt="Trigonometric function, the unit circle, sine and cosine" src="/Img/Sine_Cosine_FOS_Light_Mode.svg">
 </picture>
 
+<br>
+<br>
+
 ### Further reading and selective bibliography
 
 
