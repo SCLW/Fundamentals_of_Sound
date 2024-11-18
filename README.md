@@ -59,7 +59,8 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 - Software install required. Install instructions will be provided during the course:
 [Audacity](https://www.audacityteam.org/download/ "Audacity") <br>
 
-
+<br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/Img/Sine_Cosine_FOS_Dark_Mode.svg">
