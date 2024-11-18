@@ -70,14 +70,17 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 <!-- footer: Works cited -->
 
+
 - Ballou, Glen M. *Handbook for Sound Engineers.* Elsevier, 2008.
-- Beyer, Robert T. Sounds of Our Times: Two Hundred Years of Acoustics. Springer Press, 1999. 
+- Beyer, Robert T. Sounds of Our Times: Two Hundred Years of Acoustics. Springer Press, 1998. 
 - Blauert, Jens. *Spatial Hearing: The Psychophysics of Human Sound Localization.* MIT Press, 1997. 
-- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1996.
+- Bregman, Albert S. *Auditory Scene Analysis.* MIT Press, 1999.
 - Brixen, Eddy B. *Audio Metering: Measurements, Standards and Practice.* Routledge, 2020. 
 - Dickreiter, Michael. *Handbuch Der Tonstudiotechnik.* Vol. 1 & 2, De Gruyter Saur, 2022. 
-- Miranda, Eduardo Reck. *Computer Sound Design: Synthesis Techniques and Programming.* Focal Press, Elsevier, 2008. 
 - Görne, Thomas. *Tontechnik.* Carl Hanser Verlag, 2006.
+- Hartmann, William M. *Signals, Sound, and Sensation.* Springer, 1998.
+- Miranda, Eduardo Reck. *Computer Sound Design: Synthesis Techniques and Programming.* Focal Press, Elsevier, 2008.
+- Morse, Philip M. *Vibration and Sound.* Acoustical Society of America, 1995. 
 - Puckette, Miller. *The Theory and Technique of Electronic Music Miller Puckette.* World Scientific, 2011. 
 - Roads, Curtis. *Composing Electronic Music: a New Aesthetic.* Oxford University Press, 2015.
 - Siedenburg, Kai, et al. *Timbre: Acoustics, Perception, and Cognition.* Springer, 2019. 
@@ -86,7 +89,6 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 - Weinzierl, Stefan. *Handbuch der Audiotechnik.* Springer, 2008. 
 - Wuttke, Jörg. *Mikrofonaufsätze.* Eigenverlag Schalltechnik Dr.-Ing. Schoeps GmbH. 2000.
 - Yost, William A. Fundamentals of Hearing: An Introduction. Elsevier/Academic Press, 2007. 
-
 
 
 # Academic Calendar Winter Semester 2024-2025
