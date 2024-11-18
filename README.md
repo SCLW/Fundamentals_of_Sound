@@ -5,6 +5,10 @@ In addition to courses dealing with core competencies (programming, software eng
 
 # FUNDAMENTALS OF SOUND
 
+![Mass spring system](/Img/Mass_Spring_Motion.svg)
+*Harmonic motion of a mass on a spring*
+<br>
+
 *This seminar introduces the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.*<br>
 
   - Acoustics and psychoacoustics
