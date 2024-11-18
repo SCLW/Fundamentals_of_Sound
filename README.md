@@ -88,7 +88,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 - Valimaki, Vesa, et al. “Fifty Years of artificial reverberation.” IEEE Transactions on Audio, Speech, and Language Processing, vol. 20, no. 5, July 2012, pp. 1421–1448, https://doi.org/10.1109/tasl.2012.2189567. 
 - Weinzierl, Stefan. *Handbuch der Audiotechnik.* Springer, 2008. 
 - Wuttke, Jörg. *Mikrofonaufsätze.* Eigenverlag Schalltechnik Dr.-Ing. Schoeps GmbH. 2000.
-- Yost, William A. Fundamentals of Hearing: An Introduction. Elsevier/Academic Press, 2007. 
+- Yost, William A. *Fundamentals of Hearing: An Introduction.* Elsevier/Academic Press, 2007. 
 
 
 # Academic Calendar Winter Semester 2024-2025
