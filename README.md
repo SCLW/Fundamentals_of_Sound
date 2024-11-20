@@ -2,7 +2,7 @@
 
 
 
-This seminar lecture the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.<br>
+This lecture introduces the fundamentals of sound, exploring its physical properties, perception, and applications in music and audio technology.<br>
 
   - Acoustics and psychoacoustics
   - Audio processing
