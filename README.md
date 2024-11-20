@@ -22,13 +22,13 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 | 24.10. | Introduction                    | Introduction to sound-related arts and audio technology, summary of the course content and objectives            |
 | 31.10. | Vibration and sound             | Harmonic motion, sinusoids, sound wave propagation, acoustic measures                                            |
 | 07.11. | Sound wave properties           | Amplitude, effective value, period, phase, frequency, wavelength, speed of sound                                 |
-| 14.11. | Wave analysis                   | Time and frequency domain, discrete-time fourier transform, windowing, spectral representations of signals       |
+| 14.11. | Wave analysis                   | Time and frequency domain, discrete-time Fourier transform, windowing, spectral representations of signals       |
 | 21.11. | Types of waves and noise        | Periodic, stochastic, and impulse signals                                                                        |
-| 28.11. | Filter                          | Filter types and response characterisitcs, analog and digital filters                                            |
+| 28.11. | Filter                          | Filter types and response characteristics, analog and digital filters                                            |
 | 05.12. | Harmonics and overtone series   | Fundamental and overtones, partials, scale of harmonics, tunings, ratios and intervals, formants                 |
 | 12.12. | The human hearing               | Anatomy and physiology, auditory system, auditory perception, neural encoding,                                   |
 | 19.12. | Room acoustics and measurements | Wave propagation in the room, modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion    |
-| 09.01. | Psychoacoustics                 | Speech perception, pitch and loudness, sensitivity and selectivity, masking, subjectiv elements of hearing, Auditory scene analysis (ASA), auditory illusions |
+| 09.01. | Psychoacoustics                 | Speech perception, pitch and loudness, sensitivity and selectivity, masking, subjective elements of hearing, Auditory scene analysis (ASA), auditory illusions |
 | 16.01. | Sound localization              | Binaural hearing, distance perception, stereophonic sound, dummy head recordings, HRTF, cocktail party effect    |
 | 23.01. | Sound and Space                 | Reverberation time, echo, T<sub>60</sub> measurement, reverb in audio production, artificial reverberation and room simulation        |
 | 30.01. | Digital audio                   | Sampling and reconstruction, quantization, oversampling, dithering, delta-sigma modulation                       |
