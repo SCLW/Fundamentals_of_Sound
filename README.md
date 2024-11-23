@@ -112,7 +112,7 @@ Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 
 # Certificate guidelines
 
-||Anwesenheit <br> Attendance |Künstl. Arbeit <br> Artistic Work |Klausur <br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studienarbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll<br> Essay|Arbeits-<br>dokumentation<br>Documentation<br> of Work |
+||Anwesenheit <br> Attendance |Künstl. Arbeit <br> Artistic Work |Klausur <br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studien-<br>arbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll<br> Essay|Arbeits-<br>dokumentation<br>Documentation<br> of Work |
 |--                                                            |--|-- |-- |-- |-- |-- |-- |-- |-- |
 |Grundlagen-<br>nachweis                                       |X |   |   |(X)|   |(X)|   |   |(X)|
 |Workshop-<br>nachweis                                         |X |   |   |(X)|   |(X)|   |   |(X)|
