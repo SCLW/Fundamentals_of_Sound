@@ -118,7 +118,7 @@ Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 |Workshop- nachweis                          |X |   |   |(X)|(X)|(X)|   |(X)|   |
 |Leistungs- nachweis Basislehr- veranstaltung|X |   |(X)|(X)|(X)|   |   |(X)|   |
 |Leistungs-nachweis                          |X |(X)|(X)|(X)|(X)|(X)|(X)|(X)|   |
-|fachspezifische Theorie der Medienkunst     |X |   |   |   |X  |   |X  |   |   |
+|fachspezifische Theorie der Medienkunst     |X |   |(X)|   |X  |   |X  |   |   |
 |ECTS                                        |2 |2-4|2-4|1  |1-2|1-2|2-4|1-2|(1)|
 
 X mandatory requirements.<br>
