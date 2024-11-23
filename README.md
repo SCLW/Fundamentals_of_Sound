@@ -110,6 +110,7 @@ Instruction ends: February 15, 2025<br>
 Semester ends: March 31, 2025<br>
 Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 
+# Certificate guidelines
 
 ||Anwesenheit <br> Attendance |künstlerische Arbeit <br> Artistic Work |Klausur <br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studienarbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll <br> Essay|
 |--|--|--|--|--|--|--|--|--|
