@@ -121,7 +121,7 @@ Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 |fachspezifische Theorie der Medienkunst     |X |   |   |   |X  |   |X  |   |
 |ECTS                                        |2 |2-4|2-4|1  |1-2|1-2|2-4|1-2|
 
-X Mandatory requirements.
+X mandatory requirements.<br>
 (X) one or two options are required to fulfill the requirements for a course certificate. If you require more information, please contact your instructor.
 
 The format for an essay "Basisleistungsschein" and "Leistungsschein" for KIT students or exchange students is about 1200 words or around 5 pages.<br>
