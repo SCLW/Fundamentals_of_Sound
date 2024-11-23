@@ -119,12 +119,12 @@ Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 |Leistungs-<br>nachweis<bt>Basislehr-<br>veranstaltung        |X |   |(X)|(X)|(X)|   |   |(X)|   |
 |Leistungs-<br>nachweis                                  |X | X |   |   |   |   |   |   | X |
 |Leistungs-<br>nachweis<br>für KIT- und<br>Austauschstudierende|X |(X)|(X)|(X)|(X)|(X)|(X)|(X)|(X)| 
-|Fachspezifische Theorie der Medienkunst             |X |   |(X)|   |X  |   |X  |   |   |
+|Fachspezifische Theorie der Medienkunst             |X |   |((X))|   |X  |   |X  |   |   |
 |ECTS                                                |2 |2-4|2-4|1  |1-2|1-2|2-4|1-2|(1)|
 
 X mandatory requirements.<br>
-(X) one or two options are required to fulfill the requirements for a course certificate. If you require more information, please contact your instructor.
-
+(X) one or two options are required to fulfill the requirements for a course certificate. If you require more information, please contact your instructor.<br>
+((X)) optional
 The format for an essay "Basisleistungsschein" and "Leistungsschein" for KIT students or exchange students is about 1200 words or around 5 pages.<br>
 The format for an essay "Leistungsschein Fachtheorie Medienkunst" (Term paper) is about 2000 - 2500 words or around 8 - 10 pages plus citations.<br>
 You can refer to [MLA style](https://www.mla.org/MLA-Style "MLA style"), but this is not required.<br>
