@@ -113,13 +113,13 @@ Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 # Certificate guidelines
 
 ||Anwesenheit <br> Attendance |künstlerische Arbeit <br> Artistic Work |Klausur <br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studienarbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll <br> Essay|
-|--|--|--|--|--|--|--|--|--|
-|Grundlagen- nachweis|||||||||
-|Workshop- nachweis|X||(X)|(X)|(X)|||(X)|
-|Leistungs- nachweis Basislehr- veranstaltung|X||(X)|(X)|(X)|||(X)|
-|Leistungs-nachweis|X||(X)|(X)|(X)|(X)|(X)||
-|fachspezifische Theorie der Medienkunst|X||||X||X||
-|ECTS|2|2-4|2-4|1|1-2|1-2|2-4|1-2|
+|--                                          |--|-- |-- |-- |-- |-- |-- |-- |
+|Grundlagen- nachweis                        |  |   |   |   |   |   |   |   |
+|Workshop- nachweis                          |X |   |(X)|(X)|(X)|   |   |(X)|
+|Leistungs- nachweis Basislehr- veranstaltung|X |   |(X)|(X)|(X)|   |   |(X)|
+|Leistungs-nachweis                          |X |   |(X)|(X)|(X)|(X)|(X)|(X)|
+|fachspezifische Theorie der Medienkunst     |X |   |   |   |X  |   |X  |   |
+|ECTS                                        |2 |2-4|2-4|1  |1-2|1-2|2-4|1-2|
 
 (X) one option is required
 
