@@ -116,7 +116,7 @@ Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 |--                                                            |--|-- |-- |-- |-- |-- |-- |-- |-- |
 |Grundlagen-<br>nachweis                                       |X |   |   |(X)|   |(X)|   |   |(X)|
 |Workshop-<br>nachweis                                         |X |   |   |(X)|   |(X)|   |   |(X)|
-|Leistungs-<br>nachweis<br>Basislehr-<br>veranstaltung         |X |   |(X)|(X)|(X)|(X)|   |   |(X)|
+|Leistungs-<br>nachweis<br>Basislehr-<br>veranstaltung         |X |   |(X)|(X)|(X)|(X)|   |(X)|(X)|
 |Leistungs-<br>nachweis                                        |X | X |   |   |   |   |   |   | X |
 |Leistungs-<br>nachweis<br>für KIT- und<br>Austausch-<br>studierende|X |(X)|(X)|(X)|(X)|(X)|(X)|(X)|(X)| 
 |Fachspezifische Theorie der Medienkunst                       |X |   |((X))|   |X  |   |X  |   |   |
