@@ -113,7 +113,7 @@ Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 
 # Certificate guidelines
 
-The table below provides an overview of the certificates outlined in the examination regulations of the Hochschule für Gestaltung. However, the specific certificates available for any given course, seminar, lecture, or workshop depend on the course structure and may vary. Details regarding the certificates applicable to a specific course can be found in the course catalog or should be clarified directly with the course instructor in advance.
+The table below provides an overview of the certificates outlined in the [examination regulations](https://hfg-karlsruhe.de/service/studierende/pruefungsordnung-medienkunst_2018.pdf "Prüfungsordnung Medienkunst") of the Hochschule für Gestaltung. However, the specific certificates available for any given course, seminar, lecture, or workshop depend on the course structure and may vary. Details regarding the certificates applicable to a specific course can be found in the course catalog or should be clarified directly with the course instructor in advance.
 
 
 ||Anwesenheit <br> Attendance |Künstl. Arbeit <br> Artistic Work |Klausur <br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studien-<br>arbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll<br> Essay|Arbeits-<br>dokumentation<br>Documentation<br> of Work |
