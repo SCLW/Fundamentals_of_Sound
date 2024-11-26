@@ -93,6 +93,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 
 # Academic Calendar Winter Semester 2024-2025
 
+
 |          | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |          |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
@@ -111,6 +112,9 @@ Semester ends: March 31, 2025<br>
 Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
 
 # Certificate guidelines
+
+The table below provides an overview of the certificates outlined in the examination regulations of the Hochschule für Gestaltung. However, the specific certificates available for any given course, seminar, lecture, or workshop depend on the course structure and may vary. Details regarding the certificates applicable to a specific course can be found in the course catalog or should be clarified directly with the course instructor in advance.
+
 
 ||Anwesenheit <br> Attendance |Künstl. Arbeit <br> Artistic Work |Klausur <br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studien-<br>arbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll<br> Essay|Arbeits-<br>dokumentation<br>Documentation<br> of Work |
 |--                                                            |--|-- |-- |-- |-- |-- |-- |-- |-- |
