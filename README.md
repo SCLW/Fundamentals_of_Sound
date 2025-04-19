@@ -97,26 +97,39 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 |          | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
 | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |          |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| October  | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed |*Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* |
-| November | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat |     |
-| December | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue |
-| January  | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri |
+| April  | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed |*Thu* | Fri | Sat | Sun | Mon | Tue | Wed |     |
+| Mai |  *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat |
+| Juni | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | | 
+| Juli  Tue | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* |
+
+
 | February | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri |     |     |     |
 
 
-Semester start date: October 1, 2024<br>
-Introductory week: October 14 - 18, 2024<br>
-Instruction begins: October 21, 2024<br>
-Instruction ends: February 15, 2025<br>
-Semester ends: March 31, 2025<br>
-Academic/Administrative holidays: 10/3, 11/1, 12/25, 26/12, 1/1, 1/6,<br>
+
+Semester start date: April 1, 2025<br>
+Introductory week: April 22 - 25, 2025<br>
+Instruction begins: April 28, 2025<br>
+Instruction ends: July 25, 2025<br>
+Semester ends: September 30, 2025<br>
+Academic/Administrative holidays: 4/18, 4/21, 5/1, 5/29, 6/9, 6/19,<br>
+
 
 # Certificate guidelines
+
+According to the examination regulations, the following performance and academic records are required in the diploma program Media Art for admission to the intermediate examination or the diploma examination:
+
+1. Grundlagennachweis Sound/Raumklang (Foundation Course Credit Sound / Spatial Sound)
+2. Workshopnachweis (Workshop Credit)
+3. Leistungsnachweis Basislehrveranstaltung (Credit for Introductory Course)
+4. Leistungsnachweis (Course Credit)
+5. Fachspezifische Theorie der Medienkunst (Credit in Subject-Specific Media Art Theory)
+
 
 The table below provides an overview of the certificates outlined in the [examination regulations](https://hfg-karlsruhe.de/service/studierende/pruefungsordnung-medienkunst_2018.pdf "Prüfungsordnung Medienkunst") of the Hochschule für Gestaltung. However, the specific certificates available for any given course, seminar, lecture, or workshop depend on the course structure and may vary. Details regarding the certificates applicable to a specific course can be found in the course catalog or should be clarified directly with the course instructor in advance.
 
 
-||Anwesenheit <br> Attendance |Künstl. Arbeit <br> Artistic Work |Klausur <br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studien-<br>arbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll<br> Essay|Arbeits-<br>dokumentation<br>Documentation<br> of Work |
+||Anwesenheit <br> Attendance|Künstl. Arbeit <br> Artistic Work|Klausur<br> Test|Mündliche Prüfung <br> Oral Examination| Referat <br> mit Folien <br> Presentation <br> with slides |Studien-<br>arbeit <br> Course assignment|Hausarbeit <br> Term paper|Protokoll<br> Essay|Arbeits-<br>dokumentation<br>Documentation<br> of Work |
 |--                                                            |--|-- |-- |-- |-- |-- |-- |-- |-- |
 |Grundlagen-<br>nachweis                                       |X |   |   |(X)|   |(X)|   |   |(X)|
 |Workshop-<br>nachweis                                         |X |   |   |(X)|   |(X)|   |   |(X)|
@@ -126,12 +139,16 @@ The table below provides an overview of the certificates outlined in the [examin
 |Fachspezifische Theorie der Medienkunst                       |X |   |((X))|   |X  |   |X  |   |   |
 |ECTS                                                          |2 |2-4|2-4|1  |1-2|1-2|2-4|1-2|(1)|
 
-*X: Mandatory for a course certificate.<br>
-(X): One or more options are required to fulfill the requirements for a course certificate. Please discuss options with the course instructor.<br>
-((X)): If an in-class test is offered at the end of the semester instead of a term paper and a presentation (depends on course design).<br>
-If you require more information, please contact your course instructor.<br>*
+- *X: Mandatory for a course certificate.*<br>
+- *(X): One or more options are required to fulfill the requirements for a course certificate. Please discuss options with the course instructor.*<br>
+- *((X)): If an in-class test is offered at the end of the semester instead of a term paper and a presentation (depends on course design).*<br>
+
+*If you require more information, please contact your course instructor.*<br>
+
 
 The format for an essay "Basisleistungsschein" and "Leistungsschein" for KIT students or exchange students is about 1200 words or around 5 pages.<br>
 The format for an essay "Leistungsschein Fachtheorie Medienkunst" (Term paper) is about 2000 - 2500 words or around 8 - 10 pages plus citations.<br>
 You can refer to [MLA style](https://www.mla.org/MLA-Style "MLA style"), but this is not required.<br>
+
+
 
