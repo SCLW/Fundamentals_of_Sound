@@ -98,12 +98,10 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 | -------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |          |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
 | April  | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed |*Thu* | Fri | Sat | Sun | Mon | Tue | Wed |     |
-| Mai |  *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat |
-| Juni | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | | 
-| Juli  Tue | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* |
+| May |  *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat |
+| June | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | | 
+| July | Tue | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* |
 
-
-| February | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri |     |     |     |
 
 
 
