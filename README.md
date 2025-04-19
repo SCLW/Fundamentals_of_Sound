@@ -29,7 +29,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 | 6 | 12.06. | Filters                         | Filter types and response characteristics, analog and digital filters                                            |
 | 7 | 26.06. | Auditory Perception             | Anatomy and physiology, auditory system, neural encoding,                                   |
 | 8 | 03.07. | Psychoacoustics                 | Speech perception, pitch and loudness, sensitivity and selectivity, masking, subjective elements of hearing, Auditory scene analysis (ASA), auditory illusions |
-|09 | 10.07. | Sound Localization and Spatial Hearing| Binaural hearing, distance perception, stereophonic sound, dummy head recordings, HRTF, cocktail party effect    |
+|9 | 10.07. | Sound Localization and Spatial Hearing| Binaural hearing, distance perception, stereophonic sound, dummy head recordings, HRTF, cocktail party effect    |
 |10 | 17.07. | Room Acoustics and Reverberation| Wave propagation in the room, modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion    |
 |11 | 24.07. | Digital Sound Representation    | Sampling and reconstruction, quantization, oversampling, dithering, delta-sigma modulation                       |
 
