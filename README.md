@@ -25,7 +25,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 | 2 | 08.05. | Sound wave properties           | Amplitude, effective value, period, phase, frequency, wavelength, speed of sound                                 |
 | 3 | 15.05. | Spectral analysis               | Time and frequency domain, discrete-time Fourier transform, windowing, spectral representations of signals       |
 | 4 | 22.05. | Waveforms                       | Periodic, stochastic, and impulse signals                                                                        |
-| 5 | 05.06. | Harmonics and overtone series   | Fundamental and overtones, partials, scale of harmonics, tunings, ratios and intervals, formants                 |
+| 5 | 05.06. | Harmonics and the Overtone Series   | Fundamental and overtones, partials, scale of harmonics, tunings, ratios and intervals, formants                 |
 | 6 | 12.06. | Filters                         | Filter types and response characteristics, analog and digital filters                                            |
 | 7 | 26.06. | Auditory Perception             | Anatomy and physiology, auditory system, neural encoding,                                   |
 | 8 | 03.07. | Psychoacoustics                 | Speech perception, pitch and loudness, sensitivity and selectivity, masking, subjective elements of hearing, Auditory scene analysis (ASA), auditory illusions |
