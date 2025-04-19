@@ -15,26 +15,23 @@ This lecture introduces the fundamentals of sound, exploring its physical proper
 Teaches the fundamental aspects of sound, its production, propagation, recording and reproduction by introducing the underlying laws and models of physics, physiology and psychology. A proper understanding of this material is essential for the development of profound artistic expression in the sound-related arts. The aim of the course is to provide a theoretical background in sound technology and relevant audio topics, which promotes independent problem-solving skills in the realization of creative ideas. This is useful in the areas of media art and moving image, including sound design, acoustic communication, and electronic music. Lectures are held weekly and sessions build on each other. Students are expected to spend 2 hours per week outside of class on reading and research projects. During the course, assignments such as acoustic measurements, multitrack editing, binaural rendering, field recordings, electronic sound creation, etc. will be distributed. In addition, students may prepare and give oral presentations on audio technology or acoustics that will stimulate further discussion on the topic. By successfully completing the examination requirements, students can earn the certificate of achievement (Leistungsnachweis) in media art. No prior knowledge is required and students from all departments are welcome. Please send an email to lschwarz(at)hfg-karlsruhe.de by October 20, 2024. The lecture will be held in English. The number of places is limited and will be allocated on a first-come, first-served basis.
 
 <br>
-
+<!--
+| 1 | 24.04. | Introduction                    | Introduction to sound-related arts and audio technology, summary of the course content and objectives            |
+-->
 
 |Week| Date   | Topic                           |     Description                                                                                                  |
 |---| ------ | ------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1 | 24.10. | Introduction                    | Introduction to sound-related arts and audio technology, summary of the course content and objectives            |
-| 2 | 31.10. | Vibration and sound             | Harmonic motion, sinusoids, sound wave propagation, acoustic measures                                            |
-| 3 | 07.11. | Sound wave properties           | Amplitude, effective value, period, phase, frequency, wavelength, speed of sound                                 |
-| 4 | 14.11. | Wave analysis                   | Time and frequency domain, discrete-time Fourier transform, windowing, spectral representations of signals       |
-| 5 | 21.11. | Types of waves and noise        | Periodic, stochastic, and impulse signals                                                                        |
-| 6 | 28.11. | Filter                          | Filter types and response characteristics, analog and digital filters                                            |
-| 7 | 05.12. | Harmonics and overtone series   | Fundamental and overtones, partials, scale of harmonics, tunings, ratios and intervals, formants                 |
-| 8 | 12.12. | The human hearing               | Anatomy and physiology, auditory system, auditory perception, neural encoding,                                   |
-| 9 | 19.12. | Room acoustics and measurements | Wave propagation in the room, modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion    |
-| 10| 09.01. | Psychoacoustics                 | Speech perception, pitch and loudness, sensitivity and selectivity, masking, subjective elements of hearing, Auditory scene analysis (ASA), auditory illusions |
-| 11| 16.01. | Sound localization              | Binaural hearing, distance perception, stereophonic sound, dummy head recordings, HRTF, cocktail party effect    |
-| 12| 23.01. | Sound and Space                 | Reverberation time, echo, T<sub>60</sub> measurement, reverb in audio production, artificial reverberation and room simulation        |
-| 13| 30.01. | Digital audio                   | Sampling and reconstruction, quantization, oversampling, dithering, delta-sigma modulation                       |
-| 14| 06.02. | Oral presentations              | 15 minutes long in-class presentations, followed by a short question and answer period                           |
-|15| 13.02. | Discussion                      | Opportunity for students to engage in exploratory discussion and real-world implications of theory               |
-
+| 1 | 24.04. | Vibration and sound             | Harmonic motion, sinusoids, sound wave propagation, acoustic measures                                            |
+| 2 | 08.05. | Sound wave properties           | Amplitude, effective value, period, phase, frequency, wavelength, speed of sound                                 |
+| 3 | 15.05. | Spectral analysis               | Time and frequency domain, discrete-time Fourier transform, windowing, spectral representations of signals       |
+| 4 | 22.05. | Waveforms                       | Periodic, stochastic, and impulse signals                                                                        |
+| 5 | 05.06. | Harmonics and overtone series   | Fundamental and overtones, partials, scale of harmonics, tunings, ratios and intervals, formants                 |
+| 6 | 12.06. | Filters                         | Filter types and response characteristics, analog and digital filters                                            |
+| 7 | 26.06. | Auditory Perception             | Anatomy and physiology, auditory system, neural encoding,                                   |
+| 8 | 03.07. | Psychoacoustics                 | Speech perception, pitch and loudness, sensitivity and selectivity, masking, subjective elements of hearing, Auditory scene analysis (ASA), auditory illusions |
+|09 | 10.07. | Sound Localization and Spatial Hearing| Binaural hearing, distance perception, stereophonic sound, dummy head recordings, HRTF, cocktail party effect    |
+|10 | 17.07. | Room Acoustics and Reverberation| Wave propagation in the room, modes, surfaces and room shapes, reflection, absorption, diffraction, diffusion    |
+|11 | 24.07. | Digital Sound Representation    | Sampling and reconstruction, quantization, oversampling, dithering, delta-sigma modulation                       |
 
 
 
