@@ -97,7 +97,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 | April  | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed |*Thu* | Fri | Sat | Sun | Mon | Tue | Wed |     |
 | May |  *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat |
 | June | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | | 
-| July | Tue | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* |
+| July | Tue | Wed | Thu | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* | Fri | Sat | Sun | Mon | Tue | Wed | *Thu* |
 
 
 
