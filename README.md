@@ -88,7 +88,7 @@ Teaches the fundamental aspects of sound, its production, propagation, recording
 - Yost, William A. *Fundamentals of Hearing: An Introduction.* Elsevier/Academic Press, 2007. 
 
 
-# Academic Calendar Winter Semester 2024-2025
+# Academic Calendar Summer Semester 2025
 
 
 |          | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  | 21  | 22  | 23  | 24  | 25  | 26  | 27  | 28  | 29  | 30  | 31  |
